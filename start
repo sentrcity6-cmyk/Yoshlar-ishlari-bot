@@ -1,0 +1,7 @@
+@echo off
+echo Kutubxonalar tekshirilmoqda va o'rnatilmoqda...
+pip install -r requirements.txt
+echo.
+echo Bot muvaffaqiyatli ishga tushmoqda...
+python bot.py
+pause
